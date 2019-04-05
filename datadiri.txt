@@ -4,3 +4,5 @@ kelas : teknik komputer A
 angkata : 2018
 
 nama matakulih : struktur data 
+
+tempat tinggal : jl.tamnagapa raya 4
