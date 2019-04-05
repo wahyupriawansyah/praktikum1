@@ -1,0 +1,6 @@
+nama : wahyu priawansyah
+nim : 1829140006
+kelas : teknik komputer A
+angkata : 2018
+
+nama matakuliha : struktur data 
